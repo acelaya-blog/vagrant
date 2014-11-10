@@ -1,4 +1,4 @@
 vagrant
 =======
 
-Simple vagrant for PHP projects tutorial
+Simple vagrant for PHP projects example
